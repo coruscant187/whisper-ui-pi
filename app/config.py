@@ -21,7 +21,7 @@ DEBUG = False
 # --------------
 # Default settings
 WHISPER_DEFAULT_SETTINGS = {
-    "whisper_model": "base",
+    "whisper_model": "tiny.en",
     "temperature": 0.0,
     "temperature_increment_on_fallback": 0.2,
     "no_speech_threshold": 0.6,
